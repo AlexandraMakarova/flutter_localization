@@ -1,0 +1,21 @@
+{
+     "@@locale": "pt_BR",
+     "homePageAppBarTitle": "Página inicial",
+     "homePageMainFormTitle": "Informações pessoais",
+     "formFieldName": "Nome",
+     "formFieldNameHint": "Digite seu nome",
+     "formFieldEmail": "Email",
+     "formFieldEmailHint": "Digite seu e-mail",
+     "formFieldDOB": "Data de Nascimento",
+     "formFieldPrice": "Preço",
+     "formFieldPriceHint": "Preço do produto",
+     "formFieldRequired": "Campo obrigatório",
+     "formFieldSubmitInfo": "Enviar informações",
+     "productsPageAppBarTitle": "Produtos",
+     "aboutUsPageAppBarTitle": "Sobre nós",
+     "settingsPageAppBarTitle": "Configurações",
+     "formFieldChangeLanguage": "Alterar idioma",
+     "switchToDarkMode": "Modo escuro",
+     "switchToLightMode": "Modo claro",
+     "formFieldAbout": "Lorem Ipsum é simplesmente texto de preenchimento de lojas de impressão e arquivos de texto. Lorem Ipsum tem sido o texto de preenchimento padrão da indústria desde os anos 1500."
+} 

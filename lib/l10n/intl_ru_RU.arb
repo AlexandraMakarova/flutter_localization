@@ -1,0 +1,21 @@
+{
+    "@@locale": "ru_RU",
+    "homePageAppBarTitle": "Домашняя страница",
+    "homePageMainFormTitle": "Личная информация",
+    "formFieldName": "Имя",
+    "formFieldNameHint": "Пожалуйста, введите свое имя",
+    "formFieldEmail": "Электронная почта",
+    "formFieldEmailHint": "Введите адрес электронной почты",
+    "formFieldDOB": "Дата рождения",
+    "formFieldPrice": "Цена",
+    "formFieldPriceHint": "Цена продукта",
+    "formFieldRequired": "Обязательное поле",
+    "formFieldSubmitInfo": "Отправить информацию",
+    "productsPageAppBarTitle": "Продукты",
+    "aboutUsPageAppBarTitle": "О нас",
+    "settingsPageAppBarTitle": "Настройки",
+    "formFieldChangeLanguage": "Изменить язык",
+    "switchToDarkMode": "Темный режим",
+    "switchToLightMode": "Светлый режим",
+    "formFieldAbout": "Lorem Ipsum - это просто текст-заполнитель из типографий и текстовых файлов. Lorem Ipsum является отраслевым стандартом-заполнителем с 1500-х годов."
+}
